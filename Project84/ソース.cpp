@@ -1,10 +1,12 @@
 #include <stdio.h>
 
+//FizzBuzz
+
 int main()
 {
 	int a;
 
-	printf("®”‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢F");
+	printf("æ•´æ•°ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ï¼š");
 	scanf_s("%d", &a);
 
 	if (a % 3 == 0 && a % 5 == 0)
