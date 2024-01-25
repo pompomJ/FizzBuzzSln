@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-//FizzBuzz
-
 int main()
 {
 	int a;
